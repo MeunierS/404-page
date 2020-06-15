@@ -1,0 +1,13 @@
+img {
+        height: 800px;
+        width: 800px;
+}
+body {
+    background-color: #222222;
+}
+p {
+    color: white;
+}
+a {
+    color: yellow;
+}
